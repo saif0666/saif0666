@@ -47,22 +47,7 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,html,css,mysql,git,github,docker" />
-</p>
-
----
-
-## 📊 GitHub Stats (Dynamic)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saif0666&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saif0666&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif0666&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,html,css,mysql,git,github" />
 </p>
 
 ---
